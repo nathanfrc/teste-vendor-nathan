@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/testeComposer",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "nathan.costa",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
